@@ -1,4 +1,5 @@
-# EECE 5550 Mobile Robotics Group 8 Final Project
+# Mobile Robotics Final Project
+This project aims to implement Sampling-based Victim Searching using a turtlebot
 ![exploration-gif](https://github.com/arvinderss9299/Autonomous-Reconnaissance-using-Turtlebot/blob/main/exploration.gif)
 
 ## Preparation
