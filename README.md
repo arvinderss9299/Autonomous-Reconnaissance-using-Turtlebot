@@ -1,5 +1,5 @@
 # EECE 5550 Mobile Robotics Group 8 Final Project
-![exploration-gif](https://github.com/arvinderss9299/Autonomous-Reconnaissance-using-Turtlebot/blob/master/exploration.gif?raw=true)
+![exploration-gif](https://github.com/arvinderss9299/Autonomous-Reconnaissance-using-Turtlebot/blob/main/exploration.gif)
 
 ## Preparation
 
